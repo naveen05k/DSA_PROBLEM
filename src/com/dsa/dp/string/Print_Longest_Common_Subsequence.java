@@ -1,4 +1,4 @@
-package com.dsa.array.string;
+package com.dsa.dp.string;
 
 public class Print_Longest_Common_Subsequence {
 

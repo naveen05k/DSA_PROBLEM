@@ -1,4 +1,4 @@
-package com.dsa.array.string;
+package com.dsa.dp.string;
 /*
  * @author: Naveenkumar
  * @date: 2025-23-05

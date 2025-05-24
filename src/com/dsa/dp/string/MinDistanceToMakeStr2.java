@@ -1,4 +1,4 @@
-package com.dsa.array.string;
+package com.dsa.dp.string;
 
 /*
  * 1. The problem is to find the minimum number of operations required to
